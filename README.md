@@ -1,3 +1,4 @@
 # Tanuja-demo
-this is my 1st Git repository
-Author Tanuja Jaybhaye
+This is my 1st Git repository.
+<br>
+Author - Tanuja Jaybhaye
